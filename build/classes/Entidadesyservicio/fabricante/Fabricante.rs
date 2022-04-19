@@ -1,0 +1,1 @@
+entidadesyservicio.fabricante.Fabricante
